@@ -16,7 +16,6 @@ Aplicar los conocimientos de configuración de VLANs, enrutamiento, DHCP y ACLs 
 | Carpeta          | Descripción                                                         |
 | ---------------- | ------------------------------------------------------------------- |
 | `/docs`          | Informe técnico y comandos utilizados                               |
-| `/configs`       | Archivos de configuración de cada dispositivo (show running-config) |
 | `/packet-tracer` | Archivo del proyecto `.pkt`                                         |
 ```
 
