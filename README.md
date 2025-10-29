@@ -8,7 +8,7 @@ Aplicar los conocimientos de configuración de VLANs, enrutamiento, DHCP y ACLs 
 
 ## 🗺 Topología
 
-![Topología](/docs/Topologia.png)
+![Topología](/docs/M5D1_Topologia.png)
 
 ## 📦 Contenido
 

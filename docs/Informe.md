@@ -16,7 +16,7 @@ La red se compone de:
 - **SW-CENTRAL** → Switch de distribución.
 - **SWA y SWB** → Switches de acceso para hosts finales.
 
-![Topología](/docs/Topologia.png)
+![Topología](/docs/M5D1_Topologia.png)
 
 ---
 
